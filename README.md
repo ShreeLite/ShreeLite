@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shreem</h1>
+<h3 align="center">A passionate tech enthusiast currently pursuing a Bachelors in Technology at IIIT Hyderabad</h3>
 
-- 🌱 I’m currently learning **Web Development and AI**
-- 💬 Ask me about **React, Node, MongoDB, and APIs**
-- 📫 How to reach me: [your email/linkedin]
+- 🌱 I’m currently learning **Full stack development and Machine Learning**
+- 💬 Ask me about **Tech and sometimes Food :)**
+- 📫 How to reach me: shreemcream@gmail.com
 - 👨‍💻 My Portfolio: [your website or portfolio]
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,7 +15,7 @@
   ...
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreeLite&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeLite&layout=compact&theme=tokyonight)
 
 <!-- You can add custom GIFs or quotes too -->
