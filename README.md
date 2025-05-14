@@ -40,4 +40,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreeLite&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeLite&layout=compact&theme=tokyonight)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding gif"/>
+</p>
+
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+
 <!-- You can add custom GIFs or quotes too -->
