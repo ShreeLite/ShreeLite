@@ -44,6 +44,6 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i></p>
 
-<!-- You can add custom GIFs or quotes too -->
+
