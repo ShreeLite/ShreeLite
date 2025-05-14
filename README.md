@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Tech and sometimes Food :)**
 - 📫 How to reach me: shreemcream@gmail.com
-- 👨‍💻 My Portfolio: [your website or portfolio]
+- 👨‍💻 My Portfolio: https://shreelite.github.io/Personal_Portfolio/
 
 ### 🌱 Currently Learning
 - MERN stack development
