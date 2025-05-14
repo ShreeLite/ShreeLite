@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreem</h1>
 <h3 align="center">A passionate tech enthusiast currently pursuing a Bachelors in Technology at IIIT Hyderabad</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Love+to+code+what+I+think+💡;C%2B%2B+%7C+Python+%7C+Web+%7C+Bash+enthusiast;Exploring+backend%2C+databases%2C+and+devtools!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Shreem;I+love+to+code+💻;C%2B%2B+|+Python+|+Web+Dev+|+Bash" alt="Typing SVG" />
 </p>
+
 
 
 - 💬 Ask me about **Tech and sometimes Food :)**
