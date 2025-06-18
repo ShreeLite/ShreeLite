@@ -44,6 +44,6 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-<p align="center"><i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i></p>
+<p align="center"><i>"I function only on two extremes-Wth is a Binary Tree and I'll code out an entire Operating System on My own!😤"</i></p>
 
 
